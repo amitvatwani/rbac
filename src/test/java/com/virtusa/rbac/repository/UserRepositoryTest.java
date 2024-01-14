@@ -16,10 +16,10 @@ public class UserRepositoryTest {
     @InjectMocks
     private UserRepositoryTest userRepository;
 
-    @Test
-    @DisplayName("TestingFindByUsernameMethodWithParamStringUsernameShouldReturnOptionalUser")
-    public void FindByUsernameMethodWithParamStringUsernameShouldReturnOptionalUser(){
+    // @Test
+    // @DisplayName("TestingFindByUsernameMethodWithParamStringUsernameShouldReturnOptionalUser")
+    // public void FindByUsernameMethodWithParamStringUsernameShouldReturnOptionalUser(){
 
-    }
+    // }
 
 }
